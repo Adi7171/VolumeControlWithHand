@@ -7,9 +7,9 @@ import math
 import osascript
 
 
-################
+
 wcam ,hcam =640,480
-####################
+
 
 cap = cv2.VideoCapture(0)
 cap.set(3, wcam)
